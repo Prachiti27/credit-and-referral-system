@@ -146,9 +146,6 @@ Backend -->> Frontend: isReferralCredited = true
 
 Made with ❤️ by **Prachiti Kitey**
 
-```
-
----
 
  
 
